@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Kana API Docs"
-  text: "Kana API Documents"
+  name: "Kana API"
+  text: "This is the Kana API Documents."
   tagline: My great project tagline
   actions:
     - theme: brand

@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Kana API Docs",
-  description: "Kana API Documents",
+  title: "Kana API",
+  description: "This is the Kana API Documents.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

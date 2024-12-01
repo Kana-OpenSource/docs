@@ -137,5 +137,5 @@ Thumbs.db
 Desktop.ini
 
 # VitePress
-.vitepress/dist
-.vitepress/cache
+docs/.vitepress/dist
+docs/.vitepress/cache
