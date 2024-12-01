@@ -1,0 +1,14 @@
+{
+  "name": "kana-api-docs",
+  "version": "1.0.0",
+  "author": "Renorari",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.16.0",
+    "@stylistic/eslint-plugin-ts": "^2.11.0",
+    "eslint": "^9.16.0",
+    "eslint-plugin-vue": "^9.32.0",
+    "globals": "^15.12.0",
+    "typescript-eslint": "^8.16.0"
+  }
+}

@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# MacOS Directory Settings
+.DS_Store
+
+# Windows Cache Files and Folders Settings
+Thumbs.db
+Desktop.ini
