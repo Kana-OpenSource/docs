@@ -135,3 +135,7 @@ dist
 # Windows Cache Files and Folders Settings
 Thumbs.db
 Desktop.ini
+
+# VitePress
+.vitepress/dist
+.vitepress/cache
