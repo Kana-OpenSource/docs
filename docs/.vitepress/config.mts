@@ -1,15 +1,19 @@
 import { defineConfig } from "vitepress";
 
-// https://vitepress.dev/reference/site-config
+
 export default defineConfig({
     "title": "Kana API",
     "description": "This is the Kana API Documents.",
+    "lang": "ja",
+    "base": "/docs/",
+    "lastUpdated": true,
+    "sitemap": {
+        "hostname": "https://Kana-OpenSource.github.io/docs/"
+    },
     "themeConfig": {
-    // https://vitepress.dev/reference/default-theme-config
         "nav": [
             { "text": "Home", "link": "/" }
         ],
-
         "sidebar": [
             {
                 "text": "Home",
